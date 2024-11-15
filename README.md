@@ -89,4 +89,4 @@ Each script provides bias analysis and fairness metrics. The mitigation script o
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For questions or collaborations, please contact [Your Name](mailto:tanmaybandaru@gmail.com).
+For questions or collaborations, please contact [Tanmay Bandaru](mailto:tanmaybandaru@gmail.com).
