@@ -1,5 +1,5 @@
 
-# Addressing Social Bias in Datasets
+# Addressing Social Bias in Employement Data 
 
 ## Overview
 This project focuses on developing a comprehensive solution to identify, mitigate, and reduce inherent biases in datasets related to race, ethnicity, gender, sexuality, religion, socioeconomic status, and other social attributes. The project includes bias analysis, detection, and mitigation using state-of-the-art techniques and libraries.
